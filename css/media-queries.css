@@ -29,6 +29,12 @@
 	}
 }
 
+@media (max-width: 1440px){
+	.feedbacks-container .feedbacks-content .row-1 {
+		margin-left: -340px;
+	}
+}
+
 @media (max-width: 1199px){
 	.container {
 		padding: 20px 20px;

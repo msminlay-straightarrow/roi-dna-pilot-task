@@ -522,17 +522,21 @@
 	overflow: hidden;
 }
 
-.feedbacks-container .feedbacks-content .pages {
-	display: inline-flex;
-}
-
 .feedbacks-container .feedbacks-content .row-1,
 .feedbacks-container .feedbacks-content .row-2 {
 	display: inline-flex;
 }
 
 .feedbacks-container .feedbacks-content .row-1 {
-	margin-left: -90px;
+	margin-left: -99px;
+}
+
+.feedbacks-content .container {
+	padding: 0;
+}
+
+.feedbacks-container .feedbacks-content .featured-feedbacks-filler {
+	width: 585px;
 }
 
 .feedbacks-container .feedbacks-content .featured-feedbacks {
@@ -541,6 +545,13 @@
 	background-repeat: no-repeat;
 	background-position: 30px 25px;
 	box-shadow: 0 5px 15px rgba(0,0,0,.15);
+	margin: 0 15px 15px 15px;
+	width: 585px;
+	position: absolute;
+	z-index: 1;
+}
+
+.feedbacks-container .feedbacks-content .featured-feedbacks-filler {
 	margin: 0 15px 15px 15px;
 	width: 585px;
 }
@@ -939,6 +950,20 @@
 	font-size: 16px;
 	line-height: 24px;
 	color: rgba(0, 0, 0, 0.87);
+}
+
+.content .form-container .email-subscription-container p {
+	width: 95%;
+}
+.content .form-container .email-subscription-container input {
+	margin-top: 5px;
+	margin-right: 5px;
+	vertical-align: top;
+}
+
+.content .form-container .email-subscription-container input,
+.content .form-container .email-subscription-container p {
+	display: inline-block;
 }
 
 .content .form-container .get-demo-pill-container {
