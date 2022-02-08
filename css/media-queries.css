@@ -1,0 +1,171 @@
+@media (min-width: 1200px){
+	.container {
+	    max-width: 1280px;
+	    padding: 30px 29px;
+	}
+
+	.header {
+		height: 100px;
+	}
+
+	.logo {
+		padding: 0;
+	}
+
+	.footer-menu:last-of-type {
+		text-align: right;
+	}
+
+	.main-container .get-demo-btn {
+		display: none;
+	}
+
+	.bg-img-3-desktop {
+		display: block;
+	}
+
+	.bg-img-3-mobile {
+		display: none;
+	}
+}
+
+@media (max-width: 1199px){
+	.container {
+		padding: 20px 20px;
+	}
+
+	.main-menu-nav-web {
+		display: none;
+	}
+
+	.main-menu-nav-mobile {
+		display: block;
+	}
+
+	.nav-mobile .nav-item {
+		padding: 12px 0;
+	}
+
+	.nav-item .get-demo-btn,
+	.sign-in-link {
+		text-align: center;
+	}
+
+	.main-container {
+		display: block;
+	}
+
+	.dot {
+		height: 359.6px;
+		width: 352.68px;
+		background-color: #0068E5;
+		border-radius: 50%;
+		position: absolute;
+		left: 21%;
+	    right: -15.24%;
+	    top: 52.5%;
+	    bottom: -17.13%;
+	    z-index: -1;
+	}
+
+	.main-container h1 {
+		font-size: 35px;
+		line-height: 45px;
+	}
+
+	.main-container p {
+		font-size: 18px;
+	}
+	.main-container p span {
+		font-weight: 300;
+	}
+
+	.main-container .bg-img-1 img{
+		width: 328.44px;
+		height: 382.6px;	
+	}
+
+	.main-container .pill {
+		display: none;
+	}
+
+	.main-container .get-demo-btn {
+		display: block;
+	}
+
+	.get-demo-pill-container {
+		width: 180px;
+	}
+
+	.optional-news-conatainer {
+		position: unset;
+		padding: 50px 20px;
+	}
+
+	.optional-news-conatainer .get-demo-pill-container-2 {
+		width: 180px;
+		float: none;
+		padding-top: 24px;
+	}
+
+	.optional-news-conatainer .get-demo-pill-container-2 .get-demo-btn {
+		background: #FFFFFF;
+	}
+
+	.partners-logos-container p {
+		padding: 25px;
+	}
+
+	.section-title,
+	.header-2{
+		text-align: left;
+	}
+
+	.header-2{
+		font-size: 31px;
+		line-height: 42px;
+	}
+
+	.sub-content {
+		padding: 0 0px;
+		text-align: left;
+	}
+
+	.what-we-do-container .section-texts {
+		margin-top: 30px;
+	}
+
+	.what-we-do-container .bg-img-2,
+	.what-we-do-container .bg-img-3 {
+
+	}
+
+	.what-we-do-container .bg-img-2 img,
+	.what-we-do-container .bg-img-3 img {
+		width: 280px;
+		height: 269.49px;
+	}
+
+	.bg-img-3-desktop {
+		display: none;
+	}
+
+	.bg-img-3-mobile {
+		display: block;
+	}
+
+	.tab-content img{
+		width: 280px;
+		height: 178px;
+	}
+
+	.statistics-container .stat-title,
+	.statistics-container .stat-info {
+		text-align: left;
+	}
+
+	.see-customers-pill-container {
+		display: none;
+	}
+
+}

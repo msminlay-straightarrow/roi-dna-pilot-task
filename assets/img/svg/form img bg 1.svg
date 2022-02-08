@@ -1,0 +1,19 @@
+<svg width="630" height="371" viewBox="0 0 630 371" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1934_1466)">
+<path d="M461.317 557.124C272.042 296.914 305.368 98.6222 430.523 -12.4985C519.221 -91.2437 675.979 -61.4513 762.488 -170.484C837.081 -264.504 817.416 -373.532 766.952 -480.788" stroke="#0A41AA" stroke-width="7" stroke-miterlimit="10"/>
+<path d="M202.668 768.017C47.8899 485.922 106.073 293.451 244.299 199.084C342.286 132.188 493.979 181.627 593.607 84.4349C679.511 0.624284 673.82 -110.016 637.353 -222.803" stroke="#0A41AA" stroke-width="7" stroke-miterlimit="10"/>
+<path d="M367.083 670.929C177.812 410.714 211.129 212.433 336.289 101.307C424.986 22.5617 581.744 52.3542 668.253 -56.6786C742.846 -150.699 723.181 -259.726 672.717 -366.983" stroke="#0A41AA" stroke-width="7" stroke-miterlimit="10"/>
+<ellipse rx="25.1156" ry="25.0889" transform="matrix(-0.88289 -0.469579 0.469176 -0.883105 177.342 263.249)" fill="#EC407A"/>
+<ellipse rx="24.7205" ry="24.6943" transform="matrix(-0.882891 -0.469578 0.469177 -0.883104 236.674 364.226)" fill="#6739B7"/>
+<ellipse rx="32.7246" ry="32.6899" transform="matrix(-0.88289 -0.469579 0.469176 -0.883105 358.23 82.2353)" fill="url(#paint0_linear_1934_1466)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1934_1466" x1="68.1546" y1="68.0823" x2="12.2339" y2="12.1023" gradientUnits="userSpaceOnUse">
+<stop stop-color="#CDE6FF"/>
+<stop offset="1" stop-color="#0068E5"/>
+</linearGradient>
+<clipPath id="clip0_1934_1466">
+<rect width="630.392" height="1350.52" fill="white" transform="translate(818.79 -526) rotate(48.9058)"/>
+</clipPath>
+</defs>
+</svg>
