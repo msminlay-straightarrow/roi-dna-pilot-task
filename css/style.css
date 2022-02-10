@@ -849,7 +849,14 @@
 	position: relative;
 }
 
+.main-form-container .form-bg-img-2 {
+	position: absolute;
+	right: 20px;
+	top: 115px;
+}
+
 .main-form-container {
+	overflow: hidden;
 	position: relative;
 	padding: 170px 0 70px 0;
 }

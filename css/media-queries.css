@@ -174,4 +174,9 @@
 		display: none;
 	}
 
+	.outcomes-container .bg-img-4 img {
+		width: 243px;
+		height: 147px;
+	}
+
 }
