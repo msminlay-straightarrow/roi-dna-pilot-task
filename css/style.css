@@ -141,10 +141,9 @@
 	background-color: #0068E5;
 	border-radius: 50%;
 	position: absolute;
-	right: 0px;
-    top: 235px;
+	right: -80px;
+    top: 230px;
     bottom: 0;
-    left: 1338px;
 	z-index: 1;
 }
 
@@ -378,7 +377,11 @@
   background: url('../assets/img/svg/check-circle-1.svg') no-repeat 0 2px;
   padding: 0 38px;
   list-style: none;
-  margin: 0;
+  margin-bottom: 10px;
+}
+
+.what-we-do-container .cta-container {
+	margin-top: 30px;
 }
 
 .cta-link {
@@ -670,14 +673,17 @@
 	float: right;
 }
 
-.feedbacks-container .content-controller-container .card-controller { 
-  width: 38px; 
-  height: 38px; 
-  border-radius: 100px;
-  background-color: #FFCB02;
-  opacity: 50%;
-  padding: 14px 22px;
-  margin: 0 10px;
+.feedbacks-container .content-controller-container .card-controller {
+	display: inline-block;
+	width: 38px; 
+	height: 38px; 
+	border-radius: 100px;
+	background-color: #FFCB02;
+	opacity: 50%;
+	margin: 0 10px;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 5px;
 }
 
 .feedbacks-container .content-controller-container .card-controller:hover {
@@ -845,6 +851,14 @@
   background-color: #FFFFFF;
 }
 
+.call-out-section .pill span {
+	color: #FFFFFF;
+}
+
+.call-out-section .pill:hover span {
+	color: #1F1F1F;
+}
+
 .content {
 	position: relative;
 }
@@ -1010,6 +1024,10 @@
 
 .footer-list li{
 	margin-top: 12px;
+}
+
+.footer-list.last li:last-child {
+	margin-top: 24px;
 }
 
 .footer-link {
